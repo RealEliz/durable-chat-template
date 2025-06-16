@@ -1,5 +1,6 @@
 # Eliz's Chat System
 
-[Visit Now](https://chatroom.eliznetwork.net)
+Hello! Welcome to my open-source Chat System! Feel free to use anything in this project for your own use.
 
-i use cloudflare for this
+NOTICE:
+- For those who want to know, I use cloudflare for this.
